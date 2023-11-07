@@ -1,3 +1,8 @@
 install python
-install vs
-setup environment/interpretor
+install vs code
+setup environment/interpretor in vs code
+    - install python
+    - install all modules/libraries
+start first app
+api endpoints creation for all crud operations
+testing the endpoints in postman
