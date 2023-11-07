@@ -5,4 +5,4 @@ setup environment/interpretor in vs code
     - install all modules/libraries
 start first app
 api endpoints creation for all crud operations
-testing the endpoints in postman
+testing the endpoints in postman1
