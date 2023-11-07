@@ -1,0 +1,3 @@
+install python
+install vs
+setup environment/interpretor
